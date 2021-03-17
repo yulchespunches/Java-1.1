@@ -13,7 +13,7 @@
 
 
 
-* Описание процесса тестирования
+Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
 * [List_of_Tested_Valid_Credit_Card_Number](https://github.com/yulchespunches/Java-1.1/blob/main/List_of_Tested_Valid_Credit_Card_Number.md)
