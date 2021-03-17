@@ -9,7 +9,8 @@
 В результате тестирования выявлены следующие дефекты:
 * [Issue 1](https://github.com/yulchespunches/Java-1.1/issues/1.md)
 * [Issue 2](https://github.com/yulchespunches/Java-1.1/issues/2.md)
-* [НIssue 3](https://github.com/yulchespunches/Java-1.1/issues/3##.md)
+* [Issue 3](https://github.com/yulchespunches/Java-1.1/issues/3##.md)
+
 
 
 * Описание процесса тестирования
