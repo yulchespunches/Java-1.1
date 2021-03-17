@@ -7,7 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Некорректный статус для валидных карт с номером из 19 цифр]https://github.com/yulchespunches/Java-1.1/issues/1
+* [Некорректный статус для валидных карт с номером из 19 цифр] https://github.com/yulchespunches/Java-1.1/issues/1
 * [Некорректный статус для валидных карт платежной системы American Express] https://github.com/yulchespunches/Java-1.1/issues/2
 * [Некорректный статус для валидных платежной системы Diners Club] https://github.com/yulchespunches/Java-1.1/issues/3## 
 
