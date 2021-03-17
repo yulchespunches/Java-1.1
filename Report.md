@@ -15,8 +15,8 @@
 * Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [List_of_Tested_Valid_Credit_Card_Number] https://github.com/yulchespunches/Java-1.1/blob/main/List_of_Tested_Valid_Credit_Card_Number.md 
-* [src] https://github.com/yulchespunches/Java-1.1/tree/main/src
+* [List_of_Tested_Valid_Credit_Card_Number](https://github.com/yulchespunches/Java-1.1/blob/main/List_of_Tested_Valid_Credit_Card_Number.md)
+* [src](https://github.com/yulchespunches/Java-1.1/tree/main/src.md)
 
 В качестве тестовых данных использовались данные:
 * [Домашнее задание к занятию «1.1. Введение в Java: JDK, JRE, JVM, IntelliJ IDEA»](https://github.com/netology-code/javaqa-homeworks/tree/master/intro)
